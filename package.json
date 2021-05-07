@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "node": "^16.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "test",
+  "description": "",
+  "version": "1.0.0",
+  "main": "Date_Module.js",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spurlockat/uni-testspace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spurlockat/uni-testspace/issues"
+  },
+  "homepage": "https://github.com/spurlockat/uni-testspace#readme"
+}
