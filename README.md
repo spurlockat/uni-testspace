@@ -6,5 +6,6 @@
 - MongoDB
 - NodeJS
 - Jest
+- Client builds in Electron
 
 
